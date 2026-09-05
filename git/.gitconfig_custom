@@ -1,3 +1,6 @@
 
 [merge]
     conflictstyle = diff3
+
+[alias]
+    br = branch -v
