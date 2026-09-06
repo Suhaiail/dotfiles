@@ -4,3 +4,6 @@
 
 [alias]
     br = branch -v
+
+[init]
+    defaultBranch = main
