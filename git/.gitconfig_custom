@@ -7,3 +7,6 @@
 
 [init]
     defaultBranch = main
+
+[alias]
+    st = status -sb
