@@ -10,3 +10,6 @@
 
 [alias]
     st = status -sb
+
+[fetch]
+    prune = true
