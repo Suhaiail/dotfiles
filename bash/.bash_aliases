@@ -7,3 +7,6 @@ alias gp="git pull --rebase"
 
 # Quick git diff
 alias gd="git diff"
+
+# Colored grep output
+alias grep="grep --color=auto"
