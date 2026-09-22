@@ -13,3 +13,6 @@ alias grep="grep --color=auto"
 
 # Create dirs recursively
 alias mk="mkdir -p"
+
+# Show open ports
+alias ports="ss -tulanp"
