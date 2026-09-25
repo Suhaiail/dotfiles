@@ -16,3 +16,6 @@ alias mk="mkdir -p"
 
 # Show open ports
 alias ports="ss -tulanp"
+
+# Colored diff
+alias diff="diff --color=auto"
