@@ -19,3 +19,6 @@
 
 [alias]
     lg = log --oneline --graph --decorate -20
+
+[alias]
+    unstage = reset HEAD --
