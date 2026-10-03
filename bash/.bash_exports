@@ -2,3 +2,4 @@ export EDITOR="vim"
 export PAGER="less -R"
 export LESS="-R -F -X"
 export VISUAL="code"
+export PYTHONDONTWRITEBYTECODE=1
