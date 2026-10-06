@@ -22,3 +22,6 @@
 
 [alias]
     unstage = reset HEAD --
+
+[diff]
+    colorMoved = zebra
