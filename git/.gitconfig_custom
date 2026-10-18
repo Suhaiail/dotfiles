@@ -28,3 +28,6 @@
 
 [core]
     autocrlf = input
+
+[alias]
+    co = checkout
