@@ -19,3 +19,6 @@ alias ports="ss -tulanp"
 
 # Colored diff
 alias diff="diff --color=auto"
+
+# List files with details
+alias ll="ls -lah --color=auto"
