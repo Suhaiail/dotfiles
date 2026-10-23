@@ -31,3 +31,5 @@
 
 [alias]
     co = checkout
+
+# Reviewed: 2026-10-23
