@@ -22,3 +22,6 @@ alias diff="diff --color=auto"
 
 # List files with details
 alias ll="ls -lah --color=auto"
+
+# Clear screen
+alias cls="clear"
