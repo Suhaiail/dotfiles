@@ -6,3 +6,4 @@ export PYTHONDONTWRITEBYTECODE=1
 export HISTCONTROL=ignoreboth:erasedups
 export MANPAGER="less -X"
 export LANG="en_US.UTF-8"
+export GPG_TTY=$(tty)
