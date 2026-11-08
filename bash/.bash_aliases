@@ -25,3 +25,6 @@ alias ll="ls -lah --color=auto"
 
 # Clear screen
 alias cls="clear"
+
+# Go up one directory
+alias ..="cd .."
