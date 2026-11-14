@@ -8,3 +8,4 @@ export MANPAGER="less -X"
 export LANG="en_US.UTF-8"
 export GPG_TTY=$(tty)
 export NODE_ENV="development"
+export DOCKER_BUILDKIT=1
